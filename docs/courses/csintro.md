@@ -1,10 +1,10 @@
 # Intro to CS
 
-## A 14 week Introduction to Computer Science course.
+## Uma introdução de 14 semanas ao Curso de Ciência da Computação.
 
-This course is targeted to middle school grades 6-8 (ages 11-14 years).  It is also written for teachers who may not have a Computer Science background, or who may be teaching an "Intro to Computer Science" course for the first time.
+Este curso é direcionado para os ensinos fundamental II e médio (idades entre 11-14 anos). Também é escrito para professores que não possuem uma base de informática, ou que podem estar lecionando no curso de "introdução à ciência da computação" pela primeira vez.
 
-This course takes approximately 14 weeks to complete, spending about 1 week on each of the first 11 lessons, and 3 weeks for students to complete the final project at the end.  Of course, teachers should feel free to customize the curriculum to meet individual school or district resources and timeframe.
+Este curso leva aproximadamente 14 semanas para ser concluído, gastando cerca de 1 semana em cada uma das primeiras 11 aulas, e 3 semanas para que os alunos completem o projeto final. Naturalmente, os professores devem sentir-se livres para personalizar o currículo para atender as questões regionais, os tempos e prazos.
 
 ![Space race image](/static/courses/csintro.jpg)
 
