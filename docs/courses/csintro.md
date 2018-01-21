@@ -32,20 +32,30 @@ Each of the 12 lessons is structured in this format:
 * Assessment - A project rubric and guidance for grading the project.
 * Standards - A list of CSTA K-12 Computer Science Standards and/or concepts covered by this lesson.
 
+Cada uma das 12 lições é estruturada neste formato:
+
+* Introdução do tópico
+* Atividade desplugada (30 min)- um jogo offline ou atividade que demonstra o conceito/tópico
+* Atividade micro:bit (45-60 min)- uma atividade em que todos fazem em seus micros: pouco que ensina as habilidades aprendidas nesta lição.
+* Projeto (60-120 min)- um prompt para um projeto original que cada aluno irá criar para demonstrar sua compreensão das habilidades e conceitos abordados nesta lição.
+* Projeto mods-exemplos de coisas adicionais que os alunos podem fazer para ampliar o projeto.
+* Avaliação- uma rubrica do projecto e orientação para a classificação do projecto.
+* Normas- uma lista de CSTA K-12 padrões de ciência da computação e/ou conceitos abrangidos por esta lição.
+
 ## Course contents
 
-* [About](/courses/csintro/about)
-* [Introduction](/courses/csintro/introduction)
-* [References](/courses/csintro/references)
-* [Acknowledgements](/courses/csintro/acknowledgements)
+* [Sobre](/courses/csintro/about)
+* [Introdução](/courses/csintro/introduction)
+* [Referências](/courses/csintro/references)
+* [Conhecimentos](/courses/csintro/acknowledgements)
 
-### Lessons
+### Lissões
 
-1. [Making](/courses/csintro/making)
-2. [Algorithms](/courses/csintro/algorithms) 
-3. [Variables](/courses/csintro/variables) 
-4. [Conditionals](/courses/csintro/conditionals)
-5. [Iteration](/courses/csintro/iteration) 
+1. [Criando](/courses/csintro/making)
+2. [Algoritímos](/courses/csintro/algorithms) 
+3. [Variáveis](/courses/csintro/variables) 
+4. [Condicionais](/courses/csintro/conditionals)
+5. [Iteração](/courses/csintro/iteration) 
 6. [Review/Mini-Project](/courses/csintro/miniproject)
 7. [Coordinate grid system](/courses/csintro/coordinates)
 8. [Booleans](/courses/csintro/booleans)
